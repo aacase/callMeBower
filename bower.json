@@ -1,0 +1,10 @@
+{
+  "name": "CallMe",
+  "version": "0.0.0",
+  "authors": [
+    "aacase <aacase@gmail.com>"
+  ],
+  "description": "Page Specific JS for Lifesize Call Me",
+  "main": "/pageSpecific/main.js",
+  "license": "MIT"
+}
